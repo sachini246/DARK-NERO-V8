@@ -15,30 +15,30 @@ global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
 global.ANTI_BADWORD = 'true' // true of false
-global.AUTO_REACT = 'false' // true of false
+global.AUTO_REACT = 'true' // true of false
 global.INBOX_BLOCK_MSG ='BLOCK !!!'
 global.INBOX_BLOCK = 'off' //inbox block
-global.alivemsg = 'ᴅᴀʀᴋ-ɴᴇʀᴏ ʙᴏᴛ'
-global.alivepic = 'https://i.ibb.co/zFYBPcQ/IMG-20230226-WA0115.jpg '
-global.owner = ['0786802371'] //ur owner number
-global.ownername = "kaveesha" //ur owner name
-global.ytname = "YT: Dark" //ur yt chanel name
+global.alivemsg = 'ᴛɴᴍ-ʙᴏᴛ'
+global.alivepic = 'https://ibb.co/89n6GgR '
+global.owner = ['0761303496'] //ur owner number
+global.ownername = "Thimira" //ur owner name
+global.ytname = "YT: TnM GeTec" //ur yt chanel name
 global.socialm = "GitHub: Dark" //ur github or insta name
-global.location = "India, Mizoram, Aizawl" //ur location
+global.location = "Asia/Colombo" //ur location
 
 //bot bomdy 
 global.session = " " //session Id
-global.ownernomer = "94786802371" //ur number
-global.lang = "SI" //Select Language "EN" to English "SI" to sinhala 
-global.premium = ['94786802371'] //ur premium number
-global.botname = 'ᴅᴀʀᴋ-ɴᴇʀᴏ ᴡʜᴀᴛʜᴀᴘᴘ ʙᴏᴛ' //ur bot name
-global.linkz = "https://chat.whatsapp.com/HYj9wu5Jrv6CROxyeQbHoS" //your theme url which will be displayed on whatsapp
-global.websitex = "https://youtu.be/WiIqCdiDjFo" //ur website to be displayed
-global.botscript = 'https://www.darknero.ga/' //script link
-global.themeemoji = "🦄" //ur theme emoji
-global.packname = "Dark Nero By" //ur sticker watermark packname
-global.author = "Dark Nero Creating By Cyber Yakuza Team" //ur sticker watermark author
-global.wm = "Dark Bot Inc." //ur watermark
+global.ownernomer = "94761303496" //ur number
+global.lang = "EN" //Select Language "EN" to English "SI" to sinhala 
+global.premium = ['94761303496'] //ur premium number
+global.botname = 'ᴛɴᴍ-ᴡʜᴀᴛʜᴀᴘᴘ ʙᴏᴛ' //ur bot name
+global.linkz = "https://chat.whatsapp.com/Fuc5q839twj21EEDMnP06A" //your theme url which will be displayed on whatsapp
+global.websitex = "https://www.youtube.com/@TNM_BOY" //ur website to be displayed
+global.botscript = 'https://www.youtube.com/@TNM_BOY' //script link
+global.themeemoji = "🤴🏻" //ur theme emoji
+global.packname = "ᴛɴᴍ-by" //ur sticker watermark packname
+global.author = "ᴛɴᴍ-ʙᴏᴛ" //ur sticker watermark author
+global.wm = "ᴛɴᴍ-ʙᴏᴛ Inc." //ur watermark
 
 // Other
 global.sessionName = 'session'
@@ -47,18 +47,18 @@ global.sp = ''
 
 //messages
 global.mess = {
-    success: 'Here you go!',
-    admin: 'This feature could be used by admins only!',
-    botAdmin: 'Bot Must Be Admin First!',
-    premime: 'Premium Special Features If You Want to Register Type Rent',
-    owner: 'This feature could be used by owner only',
-    group: 'Features Used Only For Groups!',
-    private: 'Features Used Only For Private Chat!',
-    bot: 'This feature could be used by bot only',
-    wait: 'ᴘʟᴇᴀꜱᴇ ᴡɪᴛʜ...',
-    linkm: 'Where is the link?',
-    endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
-    nsfw: 'The nsfw feature has not been activated, please contact the admin to activate',
+    success: 'Here you go! (ᴛɴᴍ-ʙᴏᴛ)',
+    admin: 'This feature could be used by admins only! (ᴛɴᴍ-ʙᴏᴛ)',
+    botAdmin: 'Bot Must Be Admin First! (ᴛɴᴍ-ʙᴏᴛ)',
+    premime: 'Premium Special Features If You Want to Register Type Rent(ᴛɴᴍ-ʙᴏᴛ)',
+    owner: 'This feature could be used by owner only (ᴛɴᴍ-ʙᴏᴛ)',
+    group: 'Features Used Only For Groups! (ᴛɴᴍ-ʙᴏᴛ)',
+    private: 'Features Used Only For Private Chat! (ᴛɴᴍ-ʙᴏᴛ)',
+    bot: 'This feature could be used by bot only (ᴛɴᴍ-ʙᴏᴛ)',
+    wait: 'ᴘʟᴇᴀꜱᴇ ᴡɪᴛʜ... (ᴛɴᴍ-ʙᴏᴛ)',
+    linkm: 'Where is the link? (ᴛɴᴍ-ʙᴏᴛ)',
+    endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours (ᴛɴᴍ-ʙᴏᴛ)',
+    nsfw: 'The nsfw feature has not been activated, please contact the admin to activate (ᴛɴᴍ-ʙᴏᴛ)',
 }
 
 //media target
